@@ -1,5 +1,7 @@
 # Project Transfer Learning
 
+![](https://raw.githubusercontent.com/Masterx-AI/Project_Transfer_Learning/main/TL2a.jpg)
+
 The reuse of a pre-trained model on a new problem is known as transfer learning in machine learning. A machine uses the knowledge learned from a prior assignment to increase prediction about a new task in transfer learning. You could, for example, use the information gained during training to distinguish beverages when training a classifier to predict whether an image contains cuisine.
 
 The reuse of a previously learned model on a new problem is known as transfer learning. It’s particularly popular in deep learning right now since it can train deep neural networks with a small amount of data. This is particularly valuable in the field of data science, as most real-world situations do not require millions of labelled data points to train complicated models.
